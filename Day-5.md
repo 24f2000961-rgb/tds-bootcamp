@@ -19,10 +19,8 @@ I already knew ...
 - [x] I can write a meaningful commit message (not "fixed stuff" or "final.py")
 
 --- After Day-5 ---
-I learned these things as well, apart from the checklist I learned how Git tracks changes through
-different stages, how to manage repositories efficiently using daily Git commands, how SSH keys provide
-secure authentication, how tags are used for versioning, and why clear commit messages are important for
-collaboration and project history.
+I learned how Git tracks changes through different stages, how to manage repositories efficiently using daily Git commands, how SSH keys provide secure authentication, how tags are used for versioning, and why clear commit messages are important for collaboration and project history. 
+
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
